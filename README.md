@@ -1,4 +1,4 @@
-### Hi there, I'm Rahul Arepaka 👋
+### Hi there, I'm Rahul Arepaka <img src="https://media4.giphy.com/media/20NLMBm0BkUOwNljwv/source.gif" width="70px">
 
 [![HitCount](http://hits.dwyl.com/ishan-me/rahularepaka.svg)](http://hits.dwyl.com/rahularepaka/rahularepaka)
 
