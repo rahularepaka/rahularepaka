@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/ishan-me/rahularepaka.svg)](http://hits.dwyl.com/rahularepaka/rahularepaka)
 
 
-## I'm a Robotics Enthuisant and Developer!!
+## I'm a Robotics Enthusiast and Developer!!
 
 - 😜 Don't follow your passion but invest in it 😜 
 - 🏫 19 | Our Own High School Al Warqa'a '20 🇦🇪  | Mahindra University '24 🇮🇳 
