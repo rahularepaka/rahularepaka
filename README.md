@@ -5,7 +5,6 @@
 
 ## I'm a Robotics Enthusiast and Developer!!
 
-- 😜 Don't follow your passion but invest in it 😜 
 - 🏫 19 | Our Own High School Al Warqa'a '20 🇦🇪  | Mahindra University '24 🇮🇳 
 - 🤖 Team UAE World Robotics Olympiad | FIRST Lego League Judge 2020 | FIRST Tech Challenge 2019 
 - 🧱 I am looking to collaborate with Robotics Developers
