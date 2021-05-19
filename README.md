@@ -1,12 +1,10 @@
 ### Hi there, I'm Rahul Arepaka <img src="https://media4.giphy.com/media/20NLMBm0BkUOwNljwv/source.gif" width="70px">
 
-[![HitCount](http://hits.dwyl.com/ishan-me/rahularepaka.svg)](http://hits.dwyl.com/rahularepaka/rahularepaka)
-
 
 ## I'm a Robotics Enthusiast and Developer!!
 
 - 🏫 19 | Our Own High School Al Warqa'a '20 🇦🇪  | Mahindra University '24 🇮🇳 
-- 🤖 Team UAE World Robotics Olympiad | FIRST Lego League Judge 2020 | FIRST Tech Challenge 2019 
+- 🤖 Team UAE World Robotics Olympiad 2018 | FIRST Lego League Judge 2020 | FIRST Tech Challenge 2019 
 - 🧱 I am looking to collaborate with Robotics Developers
 - ⚡ Arduino | NodeMCU | Raspberry Pi | Nvidia Jetson Nano | IoT
 
