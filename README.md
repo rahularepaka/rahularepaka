@@ -35,7 +35,7 @@
 
 <img align="left" alt="WRO" width="90px" src="https://wro-association.org/fileadmin/user_upload/2018-Thailand-PNG.png" />
 <img align="left" alt="FLL" width="150px" src="https://www.firstlegoleague.org/sites/default/files/color/fll_theme-474df67b/fll-logo-horizontal.png" />
-<img align="left" alt="FTC" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8wwqOQ94a5d_ykHOwPmzQ1O9w1BRamEfqHA&usqp=CAU" />
+<img align="left" alt="FTC" width="90px" src="https://xrcsimulator.org/wp-content/uploads/2018/07/cropped-First-Tech-Challenge.png" />
 
 <br />
 
