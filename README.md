@@ -6,7 +6,7 @@
 - 👷Currently working on Laser Killing Weeds on FarmBot | Dashboard on Renault Twizy *Self Driving Car
 - 🏫 19 | Our Own High School Al Warqa'a '20 🇦🇪  | Mahindra University '24 🇮🇳 
 - 🤖 Team UAE World Robotics Olympiad 2018 | FIRST Lego League Judge 2020 | FIRST Tech Challenge 2019 
-- 🧱 I am looking to collaborate with Robotics Developers
+- 🧱 I am looking to collaborate with Robotics Project
 - ⚡ Arduino | NodeMCU | Raspberry Pi | Nvidia Jetson Nano | IoT
 
 
