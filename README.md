@@ -33,9 +33,9 @@
 
 ### Awards :
 
-<img align="left" alt="WRO" width="90px" src="https://wro-association.org/fileadmin/user_upload/2018-Thailand-PNG.png" />
-<img align="left" alt="FLL" width="150px" src="https://www.firstlegoleague.org/sites/default/files/color/fll_theme-474df67b/fll-logo-horizontal.png" />
-<img align="left" alt="FTC" width="90px" src="https://xrcsimulator.org/wp-content/uploads/2018/07/cropped-First-Tech-Challenge.png" />
+<img align="left" alt="WRO" width="150px" src="https://wro-association.org/fileadmin/user_upload/2018-Thailand-PNG.png" />
+<img align="left" alt="FLL" width="150px" src="https://outreach.engineering.asu.edu/wp-content/uploads/2017/01/FIRSTLego_iconHorz_RGB_reverse.png" />
+<img align="left" alt="FTC" width="150px" src="https://xrcsimulator.org/wp-content/uploads/2018/07/cropped-First-Tech-Challenge.png" />
 
 <br />
 
