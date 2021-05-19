@@ -1,9 +1,9 @@
-### Hi there, I'm Rahul Arepaka <img src="https://media4.giphy.com/media/20NLMBm0BkUOwNljwv/source.gif" width="70px">
+### Hi there, I'm Rahul Arepaka 👋 
 
 
-## I'm a Robotics Enthusiast and Developer!!
+## I'm a Robotics Enthusiast and Developer!! <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Featured.gif" width="50px">
 
-- Currently working on Laser Killing Weeds on FarmBot | Dashboard on Renault Twizy *Self Driving Car
+- 👷Currently working on Laser Killing Weeds on FarmBot | Dashboard on Renault Twizy *Self Driving Car
 - 🏫 19 | Our Own High School Al Warqa'a '20 🇦🇪  | Mahindra University '24 🇮🇳 
 - 🤖 Team UAE World Robotics Olympiad 2018 | FIRST Lego League Judge 2020 | FIRST Tech Challenge 2019 
 - 🧱 I am looking to collaborate with Robotics Developers
@@ -26,6 +26,8 @@
 <img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<img align="left" alt="Fusion 360" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/fusion360-5d76c87271.png" />
+
 
 <br />
 
