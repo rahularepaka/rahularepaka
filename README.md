@@ -13,6 +13,8 @@
 
 🌐 https://rahularepaka.github.io/
 
+![Rahul Arepaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahularepaka&show_icons=true&theme=dark)
+
 
 
 ### Connect with me:
