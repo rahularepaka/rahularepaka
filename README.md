@@ -1,5 +1,5 @@
 ### Hi there, I'm Rahul Arepaka 👋  
-
+![Rahul Arepaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahularepaka&show_icons=true&theme=dark)
 
 ## I'm a Robotics Enthusiast and Developer!! <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Featured.gif" width="50px">
 
@@ -12,9 +12,6 @@
 ## Website
 
 🌐 https://rahularepaka.github.io/
-
-![Rahul Arepaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahularepaka&show_icons=true&theme=dark)
-
 
 
 ### Connect with me:
