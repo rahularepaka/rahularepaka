@@ -1,4 +1,6 @@
-### Hi there, I'm Rahul Arepaka 👋  
+### Hi there, I'm Rahul Arepaka 👋   
+<img src="https://visitor-badge.glitch.me/badge?page_id=rahularepaka.rahularepaka" alt="Visitors Counter">
+
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahularepaka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/rahularepaka/github-readme-stats) 
 
 ## I'm a Robotics Enthusiast and Developer!! <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Featured.gif" width="50px">
