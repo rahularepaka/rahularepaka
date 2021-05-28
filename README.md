@@ -1,5 +1,5 @@
 ### Hi there, I'm Rahul Arepaka 👋   
-<img src="https://visitor-badge.glitch.me/badge?page_id=rahularepaka.rahularepaka" alt="Visitors Counter">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frahularepaka%2Fhit-counter&count_bg=%23387EE1&title_bg=%23555555&icon=keybase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahularepaka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/rahularepaka/github-readme-stats) 
 
