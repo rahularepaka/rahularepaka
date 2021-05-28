@@ -1,11 +1,11 @@
 ### Hi there, I'm Rahul Arepaka 👋  
-![Rahul Arepaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahularepaka&show_icons=true&theme=dark)
+[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahularepaka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/rahularepaka/github-readme-stats)
 
 ## I'm a Robotics Enthusiast and Developer!! <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Featured.gif" width="50px">
 
 - 👷Currently working on Laser Killing Weeds on FarmBot | Dashboard on Renault Twizy *Self Driving Car
 - 🏫 19 | Our Own High School Al Warqa'a '20 🇦🇪  | Mahindra University '24 🇮🇳 
-- 🤖 Team UAE World Robotics Olympiad 2018 | FIRST Lego League Judge 2020 | FIRST Tech Challenge 2019 
+- 🤖 Team UAE World Robotics Olympiad 2018 | FIRST Lego League Judge 2020, 2021 | FIRST Tech Challenge 2019 
 - 🧱 I am looking to collaborate with Robotics Project
 - ⚡ Arduino | NodeMCU | Raspberry Pi | Nvidia Jetson Nano | IoT
 
@@ -49,3 +49,7 @@
 ---
 [instagram]: https://instagram.com/rahularepaka
 [linkedin]: https://www.linkedin.com/in/rahul-arepaka-449587142/
+
+
+
+---
