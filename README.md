@@ -18,7 +18,6 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.tapas-etn-eu.org/images/icon-linkedin.png/@@images/image.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 
@@ -49,7 +48,6 @@
 <br />
 
 ---
-[instagram]: https://instagram.com/rahularepaka
 [linkedin]: https://www.linkedin.com/in/rahul-arepaka-449587142/
 
 
