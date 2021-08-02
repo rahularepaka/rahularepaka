@@ -10,5 +10,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/rahul-arepaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-arepaka" height="30" width="40" /></a>
 <a href="https://instagram.com/rahularepaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahularepaka" height="30" width="40" /></a>
-<a href="https://discord.gg/702860761092849775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/702860761092849775/" height="30" width="40" /></a>
+<a href="https://discord.gg/702860761092849775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/rahularepaka#0872/" height="30" width="40" /></a>
 </p>
