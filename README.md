@@ -4,7 +4,7 @@
 - 🧑‍💻 Researching on Laser Weeding on Low-Dense Plants🌱
 - 🏫 2nd Year Student pursing Computer Science and Engineering at Mahindra University '24 🇮🇳 
 - 🏆 Team UAE World Robotics Olympiad 2018 | FIRST Lego League Judge 2020, 2021 | FIRST Tech Challenge 2019 
-- 🧑🏻‍🤝‍🧑🏼 I am looking to collaborate with Robotics Research Project
+- 🧑🏻‍🤝‍🧑🏼 I love to collaborate with Robotics Research Project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
