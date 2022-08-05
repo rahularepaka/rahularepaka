@@ -16,10 +16,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahularepaka&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&border=DD2727)](https://git.io/streak-stats)
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rahularepaka&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +24,5 @@
 <a href="https://instagram.com/rahularepaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahularepaka" height="30" width="40" /></a>
 <a href="https://twitter.com/rahularepaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahularepaka" height="30" width="40" /></a>
 </p>
+
+<br>
