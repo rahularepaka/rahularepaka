@@ -6,7 +6,6 @@
 <h3 align="left">I'm a Robotics Researcher 🤖 and Agri-Enthusiast 🌱</h3>
 
 - 🧑‍💻 Researching on Laser Weeding on Low-Dense Plants🌱
-- 🚗 Building Electric Self Drving All Terrain Vehicle 🔨
 - 🏫 3rd Year Student pursing Computer Science and Engineering at Mahindra University '24 🇮🇳 
 - 🏆 Team UAE World Robotics Olympiad 2018 | FIRST Lego League Judge 2020, 2021 | FIRST Tech Challenge 2019 
 - 🧑🏻‍🤝‍🧑🏼 I love to collaborate with Robotics Research Project
